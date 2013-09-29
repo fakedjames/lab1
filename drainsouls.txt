@@ -1,0 +1,4 @@
+Death spell, cost 7
+Destroys all creatures.
+Caster receives an amount of life equal to twice the number of destroyed creatures.
+When Drain Souls is cast it is replaced with Rage of Souls spell card.

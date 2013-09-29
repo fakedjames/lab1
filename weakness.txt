@@ -1,0 +1,3 @@
+Control spell, cost 2
+Reduces by 1 all opponent's powers.
+Deals 3 damage to opponent.
