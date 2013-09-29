@@ -1,0 +1,2 @@
+Chaos spell, cost 3
+Deals 25 damage to a random creature of opponent's.
