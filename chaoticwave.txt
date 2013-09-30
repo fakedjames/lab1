@@ -1,3 +1,3 @@
 Chaos spell, cost 4
-Deals ? damage to each of opponent's creatures.
-Heals ? life to each of caster's creatures.
+Deals 0-12 damage to each of opponent's creatures.
+Heals 0-12 life to each of caster's creatures.
